@@ -1,0 +1,291 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Chapter 16 - Short Sell / Long Con</title>
+  <meta name="author" content="Jason C.C.">
+
+  
+  <meta name="description" content="Not content to sit around, ass on hands, I fired up some tools of the trade. While on the phone, I&#8217;d been thinking of other attack vectors. &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://shortsell-longcon.github.com/chapter-16">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/stylesheets/pubrunner.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="" rel="alternate" title="Short Sell / Long Con" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">Short Sell / Long Con</a></h1>
+  
+    <h2>A cyber-finance thriller by Jason C.C.</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:shortsell-longcon.github.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Home</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Chapter 16</h1>
+    
+    
+      <p class="meta">
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><br/><p>Not content to sit around, ass on hands, I fired up some tools of the trade. While on the phone, I&#8217;d been thinking of other attack vectors. There was only one piece of identifiable personal info on Mr. Leroy Brown that I might be able to exploit: his email address.</p>
+<p>The same one he&#8217;d been using since college: mordecai.johnson.randolph@gmail.com</p>
+<p>He was too smart to use that address for his <em>extracurricular</em> activities. He probably had 50 different accounts at various email providers. Countless PO Boxes and UPS Store addresses.</p>
+<p>But I knew for a fact he still checked that account on occasion. Some of his old Harvard pals still believed that he was in fact Mordecai Johnson Randolph III. Either they didn&#8217;t hear the whispers around campus, or just couldn&#8217;t believe that their close friend and pal was a massive con artist.</p>
+<p>I got to work on hacking his GMail. No small feat. GMail has some of the best security features around. Brute-forcing was out. Man-in-the-middle was out.</p>
+<p>The only thing I could think of was the password recovery option. This is the same way Sarah Palin&#8217;s Yahoo! Mail got hacked. You know how? Someone &#8220;guessed&#8221; that her high school was Wasilla High. Oh, and they had to provide her birthdate. Who&#8217;d have thought a vice-presidential candidate&#8217;s birthdate would be public knowledge.</p>
+<p>This wasn&#8217;t going to be that simple though. Google has more rigorous password recovery questions. I doubt Mordecai even bothered to enable that method. Instead they ask for a cell phone number. In the event you get locked out of your account or forget your password, GMail sends you a confirmation code on your cell. The code enables a password reset.</p>
+<p>The thing was, this account was old. I doubt Leroy had changed the number in years. It still probably had his old cell phone number that he used in college. And I knew for a fact that he&#8217;d changed numbers, numerous times, since.</p>
+<p>I did a quick scan on Google for <em>how to clone a cell phone</em>. It&#8217;d been a while since I&#8217;d seen cell cloning work successfully in the wild. It was a big problem in the late 90&#8217;s. One time I took a trip out to Los Angeles. Two weeks later, a $700 cell phone bill showed up. The call log was rife with numbers from Compton and Watts. Some drug dealer had figured out how to clone my phone. It couldn&#8217;t be that hard, I figured, but the anti-cloning technology had advanced steadily over the years.</p>
+<p>I found one recent IRC log where Serbian hackers were explaining a new method. Their technique, the hackers claimed, worked on <em>some</em> phones, <em>some</em> networks, <em>some</em> of the time. It was my only option, at this point. Down at the local Radio Shack, they had most of the models I needed. After activating a new phone from each of the major carriers, I headed over to a specialty electronics store on the East Side. Luckily they stocked the remaining parts I needed: an antennae, a signal booster, an Arduino micro-controller, a circuit board, and an RF modulator.</p>
+<p>In the meantime, I got a call back from my man at Abdullah. He told me the money had been transferred to O&#8217;Hennessy Capital Management, located in the Isle of Man. Isle of Man is a tiny island located between Great Britain and Ireland. It&#8217;s a well-known tax and gambling haven, playing host to dozens of poker websites.</p>
+<p>The account rep was also able to give me one small but crucial piece of information. Through his contacts on the Isle of Man, the rep obtained the name of the account holder: Kensington R. Danforth. A classic Mordecai alias.</p>
+
+
+<br/><p>Three hours later, I had assembled the cell cloning rig. At least according to some Serbian hacker.</p>
+<p>I flipped the switch and said a little prayer. There was a short, sending sparks into the air. Fuck.</p>
+<p>Examining the gear revealed a blown transistor. Turns out I&#8217;d soldered the wrong wire. The circuit board was still intact, though. After rechecking the shifty IRC log instructions, I found my mistake. Five minutes of soldering and the contraption was again ready. Said a little prayer as I flipped the switch; the modulator hummed to life.</p>
+<p><em>I had a moetherfucking dog, and Bing-O was his name-o</em>.</p>
+<p>A quick GMail search revealed Mordecai&#8217;s college cell number. The setup used a USB chip, which allowed configuration via linux.</p>
+<p>After opening a bash shell, I typed in the commands:</p>
+<p>> mount /dev/sdb /ownleroy/cell</p>
+<p>> ./klone /ownleroy/cell 617-239-[redacted]</p>
+<p>> ./klone-activate /ownleroy/cell</p>
+<p>The phone rebooted before taking the new settings. The signal strength was low, so I moved the antennae and booster around the room before finding the sweet spot.</p>
+<p>Another reboot. Signal strength: four bars. Not bad. Using the cloned phone, I sent my burner a text message: &#8220;hello, world.&#8221;</p>
+<p>Sure enough, chirp chirp. My burner lit up. Sure enough, the sender&#8217;s phone number was 617-239-[redacted].</p>
+<p>I opened a fresh Chrome instance and went through the process of resetting Leroy&#8217;s GMail password. After hitting the &#8220;Send Recovery Text to Your Phone&#8221; option, the clone chirped to life.</p>
+<p>Leroy Brown&#8211;you just got 0wned.</p>
+
+
+<br/><p>Mordecai was still emailing some chicks he&#8217;d met at Harvard. Women were his achilles, apparently.</p>
+<p>After a few clicks, it became evident that Leroy&#8217;s GMail archive would do little for me. His last sent message was over a week old. But Leroy&#8217;s not the most tech-savvy con artist. Google has a little-known feature called &#8220;Enable Search History.&#8221; Sounds harmless enough. But it means Google (and anyone logged into your Google account) has access to your entire search history.</p>
+<p>Turns out, Mordecai had failed to disable this feature. After a few clicks, Leroy&#8217;s helpful big brother&#8211;I mean Google&#8211;was listing every search term he&#8217;d ever entered.</p>
+<p>A few searches down, there it was in all its glory: <em>arkansas national bank little rock</em></p>
+
+</div>
+
+
+  <footer>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://shortsell-longcon.github.com/chapter-16/" data-via="" data-counturl="http://shortsell-longcon.github.com/chapter-16/" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/chapter-17/" title="Previous Post: Chapter 17">&laquo; Chapter 17</a>
+      
+      
+        <a class="basic-alignment right" href="/chapter-15/" title="Next Post: Chapter 15">Chapter 15 &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Chapters</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/chapter-1/">Chapter 1</a>
+      </li>
+    
+      <li class="post">
+        <a href="/chapter-2/">Chapter 2</a>
+      </li>
+    
+      <li class="post">
+        <a href="/chapter-3/">Chapter 3</a>
+      </li>
+    
+      <li class="post">
+        <a href="/chapter-4/">Chapter 4</a>
+      </li>
+    
+      <li class="post">
+        <a href="/chapter-5/">Chapter 5</a>
+      </li>
+    
+      <li class="post">
+        <a href="/chapter-6/">Chapter 6</a>
+      </li>
+    
+      <li class="post">
+        <a href="/chapter-7/">Chapter 7</a>
+      </li>
+    
+      <li class="post">
+        <a href="/chapter-8/">Chapter 8</a>
+      </li>
+    
+      <li class="post">
+        <a href="/chapter-9/">Chapter 9</a>
+      </li>
+    
+      <li class="post">
+        <a href="/chapter-10/">Chapter 10</a>
+      </li>
+    
+      <li class="post">
+        <a href="/chapter-11/">Chapter 11</a>
+      </li>
+    
+      <li class="post">
+        <a href="/chapter-12/">Chapter 12</a>
+      </li>
+    
+      <li class="post">
+        <a href="/chapter-13/">Chapter 13</a>
+      </li>
+    
+      <li class="post">
+        <a href="/chapter-14/">Chapter 14</a>
+      </li>
+    
+      <li class="post">
+        <a href="/chapter-15/">Chapter 15</a>
+      </li>
+    
+      <li class="post">
+        <a href="/chapter-16/">Chapter 16</a>
+      </li>
+    
+      <li class="post">
+        <a href="/chapter-17/">Chapter 17</a>
+      </li>
+    
+      <li class="post">
+        <a href="/chapter-18/">Chapter 18</a>
+      </li>
+    
+      <li class="post">
+        <a href="/chapter-19/">Chapter 19</a>
+      </li>
+    
+      <li class="post">
+        <a href="/chapter-20/">Chapter 20</a>
+      </li>
+    
+      <li class="post">
+        <a href="/chapter-21/">Chapter 21</a>
+      </li>
+    
+      <li class="post">
+        <a href="/chapter-22/">Chapter 22</a>
+      </li>
+    
+      <li class="post">
+        <a href="/chapter-23/">Chapter 23</a>
+      </li>
+    
+      <li class="post">
+        <a href="/chapter-24/">Chapter 24</a>
+      </li>
+    
+      <li class="post">
+        <a href="/chapter-25/">Chapter 25</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2012 - Jason C.C. -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>
