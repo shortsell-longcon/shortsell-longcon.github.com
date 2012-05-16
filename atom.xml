@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Short Sell / Long Con]]></title>
+  <title><![CDATA[Short Sell, Long Con]]></title>
   <link href="http://shortsell-longcon.github.com/atom.xml" rel="self"/>
   <link href="http://shortsell-longcon.github.com/"/>
-  <updated>2012-05-15T21:52:02-07:00</updated>
+  <updated>2012-05-15T22:15:17-07:00</updated>
   <id>http://shortsell-longcon.github.com/</id>
   <author>
     <name><![CDATA[Jason C.C.]]></name>
