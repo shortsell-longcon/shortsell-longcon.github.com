@@ -4,7 +4,7 @@
   <title><![CDATA[Short Sell / Long Con]]></title>
   <link href="http://shortsell-longcon.github.com/atom.xml" rel="self"/>
   <link href="http://shortsell-longcon.github.com/"/>
-  <updated>2012-04-29T23:49:04-07:00</updated>
+  <updated>2012-05-15T21:52:02-07:00</updated>
   <id>http://shortsell-longcon.github.com/</id>
   <author>
     <name><![CDATA[Jason C.C.]]></name>
@@ -16,24 +16,19 @@
   <entry>
     <title type="html"><![CDATA[Chapter 1]]></title>
     <link href="http://shortsell-longcon.github.com/chapter-1/"/>
-    <updated>2012-04-29T23:06:00-07:00</updated>
+    <updated>2012-05-15T01:42:00-07:00</updated>
     <id>http://shortsell-longcon.github.com/chapter-1</id>
     <content type="html"><![CDATA[<br/><p>You might be wondering why I&#8217;m revealing my story. After all, I got away with it. A poor kid from the Bronx&#8211;but here I am, $250 million dollars richer.</p>
-
-<br/><p>Let me back up a bit.</p>
-
-<br/><p>This is Charley. He&#8217;s my roommate, or was, back at Harvard. Charley&#8217;s hunched over a textbook, knee-deep in financial equations. I have no idea what they mean. It&#8217;s like when he looks at my computer screen. The Matrix, he calls it.</p>
-
-<br/><p>But I learned a lot from Charley. Charley turned me on to trading. He was convinced that he could come up with a formula, or really, a formula of formulas, that could beat the market. This is the holy grail when it comes to trading. He said that certain hedge funds had figured out a system, but it only worked for a while. Then shit would go south, like when LTCM had to get bailed out for a couple hundred billion.</p>
+<p>Let me back up a bit.</p>
+<p>This is Charley. He&#8217;s my roommate, or was, back at Harvard. Charley&#8217;s hunched over a textbook, knee-deep in financial equations. I have no idea what they mean. It&#8217;s like when he looks at my computer screen. The Matrix, he calls it.</p>
+<p>But I learned a lot from Charley. Charley turned me on to trading. He was convinced that he could come up with a formula, or really, a formula of formulas, that could beat the market. This is the holy grail when it comes to trading. He said that certain hedge funds had figured out a system, but it only worked for a while. Then shit would go south, like when LTCM had to get bailed out for a couple hundred billion.</p>
 <p>These are called Black Swan events.</p>
-
-<br/><p>Charley turned me on to micro-transactions. Programmatic trades that react within nanoseconds of market activity. By the time Maria Bartiwhoha is yapping about the news on CNBC, it&#8217;s too late for the average investor. Johnny E-Trade, however savvy, doesn&#8217;t stand a chance. Even with the fastest day-trading setup, by the time he tries to react&#8211;it&#8217;s too late.</p>
+<p>Charley turned me on to micro-transactions. Trades that are executed via software alone. Meaning, no human was ever involved in the decision to buy or sell. Wait&#8211;that&#8217;s not exactly correct. A human was involved in the creation of the software, but once it&#8217;s let loose on the world, the program trades using a mind of its own.</p>
+<p>By the time Maria Bartiwhoha is yapping about the latest news on CNBC, it&#8217;s too late for the average investor. High-frequency trading bots will have already wiped out much of the profit-taking opportunity. Johnny E-Trade, however savvy, doesn&#8217;t stand a chance. Even with the fastest, dedicated trading setup, by the time Johnny tries to react, it&#8217;s too late.</p>
 
 <br/><p>Wait, let me back up.</p>
-
-<br/><p>This is me. Hunched over a DOS terminal at the age of 12. It was my first computer. Well, it was my dad&#8217;s. But I used it so much, he didn&#8217;t have time to use WordPerfect anymore. Dad got an upgrade. I got my first PC.</p>
-
-<br/><p>Open up a DOS command prompt and type &#8216;tree&#8217;. Open up Terminal on your Mac and enter &#8216;ls -laR&#8217;. That&#8217;s just a taste. (Don&#8217;t worry&#8211;the first hit is free.) This stuff came easy to me. You know how Matt Damon told that girl in Good Will Hunting how he could <em>just play</em>? That was me, when it came to hacking.</p>
+<p>This is me. Hunched over a DOS terminal at the age of twelve. It was my first computer. Well, it was my dad&#8217;s. But I used it so much, he didn&#8217;t have time to use WordPerfect anymore. Dad got an upgrade; I got my first PC.</p>
+<p>You know how Matt Damon told that girl in <em>Good Will Hunting</em> how he could <em>just play</em>? That was me when it came to hacking.</p>
 <p>Here&#8217;s what you need to know:</p>
 <p>Your computer is a system.</p>
 <p>The network is a system.</p>
@@ -41,8 +36,8 @@
 <p>Systems are governed by rules; but the rules are implemented by humans. And every human has flaws.</p>
 <p>Your toaster, for example, is governed by a set of rules. If you know what to look for, you can exploit the rules&#8211;to find a vulnerability in the system.</p>
 <p>You can take apart your toaster and figure out how it works by looking at the components. The thing is&#8211;most people are afraid to take apart their toaster.</p>
-<p>I took apart and rebuilt my first PC over fifteen times until I could do it blindfolded. A motherboard here, CPU there, RAM here, PCI card there, et cetera. Do you want one piece of advice on getting better at technology? Don&#8217;t be afraid to break things.</p>
-<p>You know why your mom or grandma doesn&#8217;t know how to use the computer very well? She&#8217;s afraid she&#8217;s going to break it. And yeah, she probably has before, by installing some app that made her cursor look like a frog that danced. But that wasn&#8217;t the problem. The problem was the payload. The malware embedded in the frog-cursor app that made penis pill advertisements pop up whenever she clicked on the big blue E.</p>
+<p>I took apart and rebuilt my first PC over fifteen times until I could do it blindfolded. A motherboard here, CPU there, RAM here, PCI card there, et cetera. Do you want one piece of advice on getting better at technology? Well here it is: don&#8217;t be afraid to break things.</p>
+<p>You know why your mom or grandma doesn&#8217;t know how to use the computer very well? She&#8217;s afraid she&#8217;s going to break it. And yeah, she probably has before, by installing some app that made her cursor look like a frog that danced. But that wasn&#8217;t the problem. The problem was the payload. The malware embedded in the frog-cursor app that made penis pill ads pop up whenever she clicked on the big blue E.</p>
 
 
 <br/><p>So Charley and I became best mates, of sorts. I&#8217;d show him the scripts and hacks I was working out. He&#8217;d try to explain the latest ideas in finance, gleaned mostly from Harvard&#8217;s top-notch research library. Or the bits he picked up on insider blogs and finance forums.</p>
@@ -65,7 +60,7 @@
   <entry>
     <title type="html"><![CDATA[Chapter 2]]></title>
     <link href="http://shortsell-longcon.github.com/chapter-2/"/>
-    <updated>2012-04-29T23:05:00-07:00</updated>
+    <updated>2012-05-15T01:41:00-07:00</updated>
     <id>http://shortsell-longcon.github.com/chapter-2</id>
     <content type="html"><![CDATA[<br/><p>Mordecai was some piece of work. I already mentioned his film predilection. He really got into his favorites, and could do some of the best impressions I&#8217;ve ever seen. He&#8217;s gotta be up there with the guys from SNL and Second City. Mordecai could do everyone from Christopher Walken to Eddie Murphy, from Cartman to Stewie. Even Jeff Goldblum. Mordecai was a pro. He had the mannerisms down, too. He&#8217;d even sit here and watch the BBC&#8211;a broadcast of the British House of Commons&#8211;for hours on end. Just practicing his high English.</p>
 <p>So Charley and I were discussing financial instruments one day. I had heard of options, vaguely.</p>
@@ -78,9 +73,9 @@
 <p>&#8220;Instead you get to pay the option price?&#8221; I asked.</p>
 <p>&#8220;Exactly. Keep in mind, we&#8217;re talking about CALL options here. Not PUTs.&#8221;</p>
 <p>&#8220;What&#8217;s a PUT?&#8221; asked Mordecai.</p>
-<p>&#8220;Let&#8217;s just stick with CALL options, for now,&#8221; said Charley. &#8220;So you purchased ten thousand CALL options to buy OJ futures at say, $90, anytime in the next three months. Let&#8217;s say the cold front never happened. There&#8217;s a good chance OJ could be trading at, oh, anywhere from $85 to $110 within those months. If it were at $85, the options would be worthless. After all, acquiring the options gave you a right to purchase OJ contracts at $90. Why would you pay ninety when you could get them on the open market at eighty-five?&#8221;</p>
-<p>It was slowly coming to Mordecai. &#8220;Right &#8230; it&#8217;s like when a neighbor offers to sell you a hog for $350, but you could get one for $300 by going to the market.&#8221;</p>
-<p>Charley and I shared a brief look before he moved on.</p>
+<p>&#8220;Let&#8217;s just stick with CALL options, for now,&#8221; said Charley. &#8220;So you purchased ten thousand CALL options to buy OJ futures at say, $90, anytime in the next three months. Let&#8217;s say the cold front never happened. There&#8217;s a good chance OJ could be trading at, oh, anywhere from $85 to $110 within those months. If it were at $85, the options would be worthless. After all, acquiring the options gave you a right to purchase OJ contracts at $90. Why would you pay $90 when you could get them on the open market at $85?&#8221;</p>
+<p>It was slowly coming to Mordecai. &#8220;Right &#8230; it&#8217;s like when a neighbor offers to sell you a hog for three fifty, but you could get one for three hundred by going to the market.&#8221;</p>
+<p>Charley and I shared a brief look. <em>Hogs?</em></p>
 <p>&#8220;But in the &#8216;Black Swan&#8217; scenario &#8230; well, it&#8217;s not quite a Black Swan,&#8221; Charley said, &#8220;but perhaps a mini-Black Swan&#8211;some butterfly in Malaysia flaps its wings, and now all the oranges in Brazil look like baby tangerines. OJ futures skyrocket to $140, say. If you&#8217;re Tropicana, you can&#8217;t just call up your supermarkets and explain to them that you don&#8217;t have any juice this season. You&#8217;re going to have to get your quarterly supply from somewhere. Perhaps raise your prices&#8211;but you couldn&#8217;t double them. People would stop buying your juice.&#8221;</p>
 <p>&#8220;But you have the options, right&#8211;&#8221;</p>
 <p>&#8220;Bingo. You&#8217;re sitting on 10,000 options to buy OJ at $90. Here let&#8217;s do the math …&#8221;</p>
@@ -118,7 +113,7 @@
   <entry>
     <title type="html"><![CDATA[Chapter 3]]></title>
     <link href="http://shortsell-longcon.github.com/chapter-3/"/>
-    <updated>2012-04-29T23:04:00-07:00</updated>
+    <updated>2012-05-15T01:40:00-07:00</updated>
     <id>http://shortsell-longcon.github.com/chapter-3</id>
     <content type="html"><![CDATA[<br/><p>So everything was going great until junior year. I had a few web apps running that were netting me a few g&#8217;s per month. Nothing huge. Not Zuck Bucks, that&#8217;s for sure.</p>
 <p>A Silicon Valley startup got in touch with me through one of my netherworld contacts. The startup was building a new peer-to-peer hotel model, where people would put up rooms for rent online. You may have heard of them. Apparently they&#8217;re kind of a big deal.</p>
@@ -159,7 +154,7 @@
   <entry>
     <title type="html"><![CDATA[Chapter 4]]></title>
     <link href="http://shortsell-longcon.github.com/chapter-4/"/>
-    <updated>2012-04-29T23:03:00-07:00</updated>
+    <updated>2012-05-15T01:39:00-07:00</updated>
     <id>http://shortsell-longcon.github.com/chapter-4</id>
     <content type="html"><![CDATA[<br/><p>Anyway, I&#8217;m rambling. You probably want to know about the two hundred and fifty million, so I&#8217;ll get to that in a moment.</p>
 
@@ -200,7 +195,7 @@
   <entry>
     <title type="html"><![CDATA[Chapter 5]]></title>
     <link href="http://shortsell-longcon.github.com/chapter-5/"/>
-    <updated>2012-04-29T23:02:00-07:00</updated>
+    <updated>2012-05-15T01:38:00-07:00</updated>
     <id>http://shortsell-longcon.github.com/chapter-5</id>
     <content type="html"><![CDATA[<br/><p>Leroy and I met up periodically over the coming months; my day job slowly sucking my will to live. I longed for my days as a greyhat, but I was afraid to quit. I&#8217;d grown complacent; resigned to collecting a paycheck for the rest of my life.</p>
 <p>One day I stayed late at work. It was one of those high-rise office towers in mid-town. Couple hundred different tenants. I went down a few floors, just as the cleaning crews were arriving. I watched as they entered the offices and began vacuuming the floors, emptying the trash. On the way home, I picked up a twelve-pack of Amstel Light. Leroy was coming over to watch the Knicks game.</p>
@@ -247,7 +242,7 @@
   <entry>
     <title type="html"><![CDATA[Chapter 6]]></title>
     <link href="http://shortsell-longcon.github.com/chapter-6/"/>
-    <updated>2012-04-29T23:01:00-07:00</updated>
+    <updated>2012-05-15T01:37:00-07:00</updated>
     <id>http://shortsell-longcon.github.com/chapter-6</id>
     <content type="html"><![CDATA[<br/><p>Let me be straight here, before I continue: I never started out thinking, <em>hey, you know what I should do with my life? Become a criminal</em>. It was just a game for me. An elaborate exercise in penetration testing. Sure, one that would go on to reward me handsomely. And the victim? Well, it was kind of like when you download a song illegally off the internet. Sure, there&#8217;s a victim. But he/she/it is so far removed, you&#8217;re hardly aware there is one. Is Britney Spears really going to be harmed because I download <em>Baby One More Time</em>, when I never in a million years would have actually, you know, <em>paid</em> for it? Well, our victims were kind of like that. Institutional investors, worth billions, who lost a few cents or few dollars on each trade.</p>
 <p>Charley, meanwhile, became disillusioned at Gutbloom Macks. Seeing how the sausage is made and all. Rampant greed and corruption. Putting the company&#8217;s bottom line ahead of the clients&#8217;. What&#8217;s it they say&#8230; <em>give a man a gun, and he can rob a bank. Give a man a bank, and he can rob the world?</em></p>
@@ -278,7 +273,7 @@
   <entry>
     <title type="html"><![CDATA[Chapter 7]]></title>
     <link href="http://shortsell-longcon.github.com/chapter-7/"/>
-    <updated>2012-04-29T23:00:00-07:00</updated>
+    <updated>2012-05-15T01:36:00-07:00</updated>
     <id>http://shortsell-longcon.github.com/chapter-7</id>
     <content type="html"><![CDATA[<br/><p>Two weeks of this and I was spent. I felt like a zombie, or, Edward Norton’s character in Fight Club. Bloodshoot eyes, nodding off during meetings, leaving documents related to my extracurricular activities in the copy machine. My code checkins grew progressively more sparse; I could hear whispers around the office.</p>
 <p>It had been a few days since I&#8217;d been back to the industrial services company. The crews were rotated from building to building, so you never knew when you&#8217;d end up back at a particular office. After knocking out my usual routine, I checked on the logger. To download the data, you just plug the USB end of the logger into an Android phone or similar device. I wrote a custom app that would suck a week&#8217;s worth of data down in about thirty seconds. After replacing the logger, I moved on to the next office.</p>
@@ -310,7 +305,7 @@
   <entry>
     <title type="html"><![CDATA[Chapter 8]]></title>
     <link href="http://shortsell-longcon.github.com/chapter-8/"/>
-    <updated>2012-04-29T22:59:00-07:00</updated>
+    <updated>2012-05-15T01:35:00-07:00</updated>
     <id>http://shortsell-longcon.github.com/chapter-8</id>
     <content type="html"><![CDATA[<br/><p>You might be wondering: when the stock price would inevitably fall from the layoff announcement, how were we going to make money? Can&#8217;t you only make money when a stock goes <em>up</em>?</p>
 <p>That&#8217;s where short-selling comes in.</p>
@@ -356,7 +351,7 @@
   <entry>
     <title type="html"><![CDATA[Chapter 9]]></title>
     <link href="http://shortsell-longcon.github.com/chapter-9/"/>
-    <updated>2012-04-29T22:58:00-07:00</updated>
+    <updated>2012-05-15T01:34:00-07:00</updated>
     <id>http://shortsell-longcon.github.com/chapter-9</id>
     <content type="html"><![CDATA[<br/><p>As much as I trusted Mr. &#8220;Leroy Brown,&#8221; if that were in fact his real name, I had now put my life, my wealth (however newly-acquired), and freedom in his hands. We were both looking at some serious group shower time if our actions ever came to light.</p>
 <p>At the bar that night, I decided right then, right there, that it was no longer about the money. I was in it for the thrill. Sure&#8211;a big, fat payday, too, but only if the risk was justified. Leroy and I had long ago shook hands on a 50/50 split. We&#8217;d offered a 20% cut to Charley, but he refused, flat out. Instead we paid him like any other financial services provider.</p>
@@ -408,7 +403,7 @@
   <entry>
     <title type="html"><![CDATA[Chapter 10]]></title>
     <link href="http://shortsell-longcon.github.com/chapter-10/"/>
-    <updated>2012-04-29T22:57:00-07:00</updated>
+    <updated>2012-05-15T01:33:00-07:00</updated>
     <id>http://shortsell-longcon.github.com/chapter-10</id>
     <content type="html"><![CDATA[<br/><p>We hired an ex-Google engineer named Raj to deal with our torrent of data. I didn&#8217;t trust a soul with the encryption keys to our master database, so he always worked from a sample. We were up to three full racks of servers at our host in the Netherlands. The data was locked down with NSA-strength, 2048-bit encryption. The key was a string of 264 characters that I had memorized. It was a poem, in fact. Part of T.S. Elliot&#8217;s <em>The Wasteland</em>. The characters were then converted into leet-speek for added security. &#8220;Th1s 1s t3h w@y t3h w0rld 3nds. N0t w1th @ b@ng, but @ w1mp3r.&#8221;</p>
 <p>Sure, someone could torture me for the key, but I didn&#8217;t think the CIA would get involved in a financial crime under the jurisdiction of the SEC.</p>
@@ -458,11 +453,11 @@
   <entry>
     <title type="html"><![CDATA[Chapter 11]]></title>
     <link href="http://shortsell-longcon.github.com/chapter-11/"/>
-    <updated>2012-04-29T22:56:00-07:00</updated>
+    <updated>2012-05-15T01:32:00-07:00</updated>
     <id>http://shortsell-longcon.github.com/chapter-11</id>
     <content type="html"><![CDATA[<br/><p>I only learned of this later, but it turns out our little operation had begun to raise a few eyebrows.</p>
 <p>Trading options&#8211;that is, PUTs and CALLS&#8211;was critical to our success. We couldn&#8217;t have made the kind of dough we made without them. And yet trading options isn&#8217;t nearly as popular as trading regular stocks. So when the bean counters over at the SEC pour over reams and reams of financial data, looking for anomalous trades &#8230; it&#8217;s a lot easier to spot the fishy-looking PUTs and CALLs.</p>
-<p>A low-level SEC agent by the name of Frank Hardt had uncovered what appeared to be an anomaly in the data. One of the things the SEC looks for is a high percentage of winning trades. And, let me tell you&#8211;we were fucking killing it. Our win ratio was through the roof. Keep in mind, most money managers actually fail to beat the market. Everyone tries to beat the S&P 500, but few money managers come close. Even the very best investors&#8211;guys like Warren Buffet&#8211;make winning trades about 55-65% of the time. The rest of the trades are inevitable losers. Of course, our accounts showed almost zero indication of losing trades</p>
+<p>A low-level SEC agent by the name of Frank Hardt had uncovered what appeared to be an anomaly in the data. One of the things the SEC looks for is a high percentage of winning trades. And, let me tell you&#8211;we were fucking killing it. Our win ratio was through the roof. Keep in mind, most money managers actually fail to beat the market. Everyone tries to beat the S&amp;P 500, but few money managers come close. Even the very best investors&#8211;guys like Warren Buffet&#8211;make winning trades about 55-65% of the time. The rest of the trades are inevitable losers. Of course, our accounts showed almost zero indication of losing trades</p>
 <p>When we bet&#8211;we bet small, but we nearly always won.</p>
 
 
@@ -494,7 +489,7 @@
   <entry>
     <title type="html"><![CDATA[Chapter 12]]></title>
     <link href="http://shortsell-longcon.github.com/chapter-12/"/>
-    <updated>2012-04-29T22:55:00-07:00</updated>
+    <updated>2012-05-15T01:31:00-07:00</updated>
     <id>http://shortsell-longcon.github.com/chapter-12</id>
     <content type="html"><![CDATA[<br/><p>The proverbial shit hit the fan one day when a gentleman security blogger, Spruce Breiner, posted about our hardware keystroke loggers being found in the offices of several major corporations. The company execs had tried to cover up the breach, but word leaked out after several security analysts shared a similar tale over beers at a conference.</p>
 <p>It was being held in Las Vegas that year. At a table for twelve, three representatives from three of the companies we hit, pulled out replicas of the exact same keystroke loggers that we&#8217;d used.</p>
@@ -520,7 +515,7 @@
 <p>I waded through several false positives before getting to the real dirt. Among the scandalous documents were the following:</p>
 <p>a) A corporate memo to senior VPs, the CFO and CEO, from a junior accountant. It stated that the mortgage-backed securities the firm was trading in were 40-60% fraudulent. e.g. missing paperwork, forged signatures, invalid proof of income, etc, etc. The firm continued trading these securities for months, knowing full well they were mostly a giant house of cards.</p>
 <p>b) Fraudulent accounting practices in their tax-services division.</p>
-<p>c) Clear lack of separation between their analyst and ibanking divisions. This amounts to, essentially, insider trading on their part. Their M&A department knew of upcoming mergers. The ibanker on the deal would give a heads up to their ratings & analyst division, who would then upgrade both stocks to STRONG BUY. This makes their advisors and traders look smarter&#8211;but it&#8217;s only because they were using intel not available to the general public.</p>
+<p>c) Clear lack of separation between their analyst and ibanking divisions. This amounts to, essentially, insider trading on their part. Their M&amp;A department knew of upcoming mergers. The ibanker on the deal would give a heads up to their ratings &amp; analyst division, who would then upgrade both stocks to STRONG BUY. This makes their advisors and traders look smarter&#8211;but it&#8217;s only because they were using intel not available to the general public.</p>
 <p>d) Dealings with a Big Chemical company who&#8217;s shoddy workmanship led to the deaths of several hundred workers in southern India. Moldmen Lax was brought in to broker the deal. They pushed hard, initially, to settle the victims&#8217; claims without any acknowledgment of wrongdoing. The maximum payment allotted to victims&#8217; families? $125 USD per worker. Sickening.</p>
 
 
@@ -533,7 +528,7 @@
   <entry>
     <title type="html"><![CDATA[Chapter 13]]></title>
     <link href="http://shortsell-longcon.github.com/chapter-13/"/>
-    <updated>2012-04-29T22:54:00-07:00</updated>
+    <updated>2012-05-15T01:30:00-07:00</updated>
     <id>http://shortsell-longcon.github.com/chapter-13</id>
     <content type="html"><![CDATA[<br/><p>Our big opportunity came when Mordecai infiltrated a well-known startup out in Silicon Valley.</p>
 <p>Wait, let me back up.</p>
@@ -602,7 +597,7 @@
   <entry>
     <title type="html"><![CDATA[Chapter 14]]></title>
     <link href="http://shortsell-longcon.github.com/chapter-14/"/>
-    <updated>2012-04-29T22:53:00-07:00</updated>
+    <updated>2012-05-15T01:29:00-07:00</updated>
     <id>http://shortsell-longcon.github.com/chapter-14</id>
     <content type="html"><![CDATA[<br/><p>DealsOn opened the following day at $48. By 10am EST, three major finance blogs had covered the leak. This was followed within the hour by blurbs from the WSJ, CNN Money and Yahoo! Finance. They even found sources within the company to confirm the details made public by the leak.</p>
 <p>We had DealsOn X by the balls, and they knew it.</p>
@@ -643,7 +638,7 @@
   <entry>
     <title type="html"><![CDATA[Chapter 15]]></title>
     <link href="http://shortsell-longcon.github.com/chapter-15/"/>
-    <updated>2012-04-29T22:52:00-07:00</updated>
+    <updated>2012-05-15T01:28:00-07:00</updated>
     <id>http://shortsell-longcon.github.com/chapter-15</id>
     <content type="html"><![CDATA[<br/><p>You&#8217;re probably wondering how I got the money back. Well, $250 million of it anyways. I&#8217;ll get to that, but first&#8211;</p>
 <p>Frank Hardt and the SEC boys were by now hot on our trail. They were zeroing in on the biggest insider trading empire ever assembled.</p>
@@ -671,21 +666,22 @@
 <p>Charley called me back in fifteen. Turns out a friend of a friend once worked there. Charley put me in touch with an Abdullah account rep. I gave him a call.</p>
 <p>&#8220;Look,&#8221; I said, &#8220;I don&#8217;t have much time so I&#8217;m going to be blunt. Someone stole a very large amount of money from me, and they&#8217;re using Abdullah as a conduit. We can wait until I get the Feds involved, and it won&#8217;t be pretty. Or we can do it the easy way.&#8221;</p>
 <p>&#8220;Sir?&#8221;</p>
-<p>&#8220;I know what this is going to sound like. It&#8217;s going to sound like The Spanish Prisoner&#8211;the confidence trick. I&#8217;m some kind of Nigerian prince who has $23 million dollars in a bank somewhere, and all I need you to do is to wire me twenty g&#8217;s. But I&#8217;m not going to ask you for twenty grand. I&#8217;m not going to ask you for a dime. All I need is the name of the bank, and the routing numbers, where some funds were transferred out of Abdullah.&#8221;</p>
+<p>&#8220;I know what this is going to sound like. It&#8217;s going to sound like The Spanish Prisoner&#8211;the confidence trick. I&#8217;m some kind of Nigerian prince who has twenty-three million dollars in a bank somewhere, and all I need you to do is to wire me twenty g&#8217;s. But I&#8217;m not going to ask you for twenty grand. I&#8217;m not going to ask you for a dime. All I need is the name of the bank and some routing numbers.&#8221;</p>
 <p>&#8220;Sir, I uh &#8230;&#8221;</p>
-<p>&#8220;Just listen. In exchange for this small but vital piece of information, I will give you, and I swear, on the life of my mother, one million dollars. I would say five million, but you wouldn&#8217;t believe me. Let&#8217;s just say, if I am able to retrieve my funds, I wouldn&#8217;t think twice about wiring ten million USD into a bank account of your choosing.&#8221;</p>
+<p>&#8220;Just listen. In exchange for this small but vital piece of information, I will give you, and I swear, on the life of my mother, one million dollars. I would say five million, but you wouldn&#8217;t believe me. Let&#8217;s just say, if I am able to retrieve my funds, I wouldn&#8217;t think twice about wiring one-point-five million USD into a bank account of your choosing.&#8221;</p>
 <p>There was a long pause on the other end of the line.</p>
 <p>I continued, &#8220;I will give you five seconds to accept this offer, and then I&#8217;m hanging up the phone.&#8221;</p>
 <p>I waited a moment before saying, &#8220;Five &#8230; four &#8230; three &#8230; two &#8230; one&#8211;&#8221;</p>
 <p>&#8220;I&#8217;ll do it.&#8221;</p>
 <p>A cheshire grin crept across my face.</p>
-<p>&#8220;Guy,&#8221; he said, &#8220;I don&#8217;t know who you are. And frankly, that was one helluva sell job. But really? I get paid eighty grand a year to shuffle around millions of dollars for my mostly-Arab clientele. Some seventeen-year-old Shiek&#8217;s son totals his Ferrari in London, and I wire him another three-hundred grand. That&#8217;s my job. So you know what? I&#8217;m going to help you. Even if you&#8217;re full of shit, I&#8217;ll have one helluva story to tell my girl back home.&#8221;</p>
+<p>&#8220;Guy,&#8221; he said, &#8220;I don&#8217;t know who you are. And frankly, that was one helluva sell job. But really&#8211;I get paid eighty grand a year to shuffle around other people&#8217;s millions. Some seventeen-year-old Shiek&#8217;s son totals his Ferrari in London, and I wire him another three-hundred grand. That&#8217;s my job. So you know what? I&#8217;m going to help you. Even if you&#8217;re full of shit, I&#8217;ll have one helluva story to tell my girl back home.&#8221;</p>
 <p>&#8220;Okay, you got a deal.&#8221;</p>
 <p>&#8220;How can I lookup the account?&#8221;</p>
 <p>&#8220;I would give you a name but I have no clue what alias he&#8217;s using. You&#8217;re going to have to search your records for a new account that had over five-hundred million US dollars deposited into it today.&#8221;</p>
-<p>A pin drop could be heard over the deafening silence. I knew that I had his attention. Would he want a bigger cut?</p>
+<p>The line went so quiet, it felt like a sealed vacuum tube.</p>
+<p>&#8220;I&#8211;uhh &#8230;&#8221; he stammered. <em>Would he want a bigger cut?</em></p>
 <p>&#8220;Five hundred million,&#8221; I said, &#8220;roughly. That&#8217;s all I know.&#8221;</p>
-<p>&#8220;O&#8211;Okay. I will see what I can do. Where can I reach you at?&#8221;</p>
+<p>&#8220;Oh&#8211;Okay. I will see what I can do. Where can I reach you at?&#8221;</p>
 <p>I gave him the number to my burner.</p>
 
 ]]></content>
@@ -694,42 +690,40 @@
   <entry>
     <title type="html"><![CDATA[Chapter 16]]></title>
     <link href="http://shortsell-longcon.github.com/chapter-16/"/>
-    <updated>2012-04-29T22:51:00-07:00</updated>
+    <updated>2012-05-15T01:27:00-07:00</updated>
     <id>http://shortsell-longcon.github.com/chapter-16</id>
-    <content type="html"><![CDATA[<br/><p>Not content to sit around, ass on hands, I fired up some tools of the trade. While on the phone, I&#8217;d been thinking of other attack vectors. There was only one piece of identifiable personal info on Mr. Leroy Brown that I might be able to exploit: his email address.</p>
-<p>The same one he&#8217;d been using since college: mordecai.johnson.randolph@gmail.com</p>
+    <content type="html"><![CDATA[<br/><p>Not content to sit around, ass on hands, I fired up some tools of the trade. While on the phone, I&#8217;d been thinking of other attack vectors. There was only one piece of identifiable personal info on Mr. Leroy Brown that I might be able to exploit: his email address. The same one he&#8217;d been using since college: mordecai.johnson.randolph@gmail.com</p>
 <p>He was too smart to use that address for his <em>extracurricular</em> activities. He probably had 50 different accounts at various email providers. Countless PO Boxes and UPS Store addresses.</p>
 <p>But I knew for a fact he still checked that account on occasion. Some of his old Harvard pals still believed that he was in fact Mordecai Johnson Randolph III. Either they didn&#8217;t hear the whispers around campus, or just couldn&#8217;t believe that their close friend and pal was a massive con artist.</p>
-<p>I got to work on hacking his GMail. No small feat. GMail has some of the best security features around. Brute-forcing was out. Man-in-the-middle was out.</p>
-<p>The only thing I could think of was the password recovery option. This is the same way Sarah Palin&#8217;s Yahoo! Mail got hacked. You know how? Someone &#8220;guessed&#8221; that her high school was Wasilla High. Oh, and they had to provide her birthdate. Who&#8217;d have thought a vice-presidential candidate&#8217;s birthdate would be public knowledge.</p>
+<p>I got to work on hacking his GMail. No small feat. GMail has some of the best security features around. Brute-forcing was out. Man-in-the-middle was out. The only thing I could think of was the password recovery option. This is the same way Sarah Palin&#8217;s Yahoo! Mail got hacked. You know how? Someone &#8220;guessed&#8221; that her high school was Wasilla High. Oh, and they had to provide her birthdate. Who&#8217;d have thought a vice-presidential candidate&#8217;s birthdate would be public knowledge.</p>
 <p>This wasn&#8217;t going to be that simple though. Google has more rigorous password recovery questions. I doubt Mordecai even bothered to enable that method. Instead they ask for a cell phone number. In the event you get locked out of your account or forget your password, GMail sends you a confirmation code on your cell. The code enables a password reset.</p>
 <p>The thing was, this account was old. I doubt Leroy had changed the number in years. It still probably had his old cell phone number that he used in college. And I knew for a fact that he&#8217;d changed numbers, numerous times, since.</p>
-<p>I did a quick scan on Google for <em>how to clone a cell phone</em>. It&#8217;d been a while since I&#8217;d seen cell cloning work successfully in the wild. It was a big problem in the late 90&#8217;s. One time I took a trip out to Los Angeles. Two weeks later, a $700 cell phone bill showed up. The call log was rife with numbers from Compton and Watts. Some drug dealer had figured out how to clone my phone. It couldn&#8217;t be that hard, I figured, but the anti-cloning technology had advanced steadily over the years.</p>
+<p>I did a quick scan on Google for <em>how to clone a cell phone</em>. It&#8217;d been a while since I&#8217;d seen cell cloning work successfully in the wild. It used to be a big problem for the carriers. One time I took a trip out to Los Angeles. Two weeks later, a $700 cell phone bill showed up in the mail. The call log was rife with numbers from Compton and Watts. Some drug dealer had figured out how to clone my phone. It couldn&#8217;t be that hard, I figured, but the anti-cloning technology had advanced steadily over the years.</p>
 <p>I found one recent IRC log where Serbian hackers were explaining a new method. Their technique, the hackers claimed, worked on <em>some</em> phones, <em>some</em> networks, <em>some</em> of the time. It was my only option, at this point. Down at the local Radio Shack, they had most of the models I needed. After activating a new phone from each of the major carriers, I headed over to a specialty electronics store on the East Side. Luckily they stocked the remaining parts I needed: an antennae, a signal booster, an Arduino micro-controller, a circuit board, and an RF modulator.</p>
-<p>In the meantime, I got a call back from my man at Abdullah. He told me the money had been transferred to O&#8217;Hennessy Capital Management, located in the Isle of Man. Isle of Man is a tiny island located between Great Britain and Ireland. It&#8217;s a well-known tax and gambling haven, playing host to dozens of poker websites.</p>
-<p>The account rep was also able to give me one small but crucial piece of information. Through his contacts on the Isle of Man, the rep obtained the name of the account holder: Kensington R. Danforth. A classic Mordecai alias.</p>
+<p>In the meantime, I got a call back from my contact at Abdullah. He told me the money had been transferred to O&#8217;Hennessy Capital Management, located in the Isle of Man. Isle of Man is a tiny island located between Great Britain and Ireland. It&#8217;s a well-known tax and gambling haven, playing host to dozens of poker websites. The account rep was also able to give me one small but crucial piece of information. Through his contacts on the Isle of Man, the rep obtained the name of the account holder: Kensington R. Danforth. I chuckled out loud upon hearing the name. It was a classic Mordecai alias.</p>
 
 
 <br/><p>Three hours later, I had assembled the cell cloning rig. At least according to some Serbian hacker.</p>
 <p>I flipped the switch and said a little prayer. There was a short, sending sparks into the air. Fuck.</p>
-<p>Examining the gear revealed a blown transistor. Turns out I&#8217;d soldered the wrong wire. The circuit board was still intact, though. After rechecking the shifty IRC log instructions, I found my mistake. Five minutes of soldering and the contraption was again ready. Said a little prayer as I flipped the switch; the modulator hummed to life.</p>
-<p><em>I had a moetherfucking dog, and Bing-O was his name-o</em>.</p>
+<p>Examining the gear revealed a blown transistor. Turns out I&#8217;d soldered the wrong wire. The circuit board was still intact, though. I double-checked the instructions and found the error. After soldering a few more wires together, I crossed my fingers and flipped the switch. The modulator hummed to life.</p>
+<p><em>I had a dog, and bing-go was his name-o</em>.</p>
 <p>A quick GMail search revealed Mordecai&#8217;s college cell number. The setup used a USB chip, which allowed configuration via linux.</p>
 <p>After opening a bash shell, I typed in the commands:</p>
-<p>> mount /dev/sdb /ownleroy/cell</p>
-<p>> ./klone /ownleroy/cell 617-239-[redacted]</p>
-<p>> ./klone-activate /ownleroy/cell</p>
+<p>&gt; mount /dev/sdb /ownleroy/cell</p>
+<p>&gt; ./klone /ownleroy/cell 617-239-[redacted]</p>
+<p>&gt; ./klone-activate /ownleroy/cell</p>
 <p>The phone rebooted before taking the new settings. The signal strength was low, so I moved the antennae and booster around the room before finding the sweet spot.</p>
 <p>Another reboot. Signal strength: four bars. Not bad. Using the cloned phone, I sent my burner a text message: &#8220;hello, world.&#8221;</p>
 <p>Sure enough, chirp chirp. My burner lit up. Sure enough, the sender&#8217;s phone number was 617-239-[redacted].</p>
 <p>I opened a fresh Chrome instance and went through the process of resetting Leroy&#8217;s GMail password. After hitting the &#8220;Send Recovery Text to Your Phone&#8221; option, the clone chirped to life.</p>
-<p>Leroy Brown&#8211;you just got 0wned.</p>
+<p>Mr. Leroy Brown&#8211;you just got 0wned.</p>
 
 
-<br/><p>Mordecai was still emailing some chicks he&#8217;d met at Harvard. Women were his achilles, apparently.</p>
-<p>After a few clicks, it became evident that Leroy&#8217;s GMail archive would do little for me. His last sent message was over a week old. But Leroy&#8217;s not the most tech-savvy con artist. Google has a little-known feature called &#8220;Enable Search History.&#8221; Sounds harmless enough. But it means Google (and anyone logged into your Google account) has access to your entire search history.</p>
-<p>Turns out, Mordecai had failed to disable this feature. After a few clicks, Leroy&#8217;s helpful big brother&#8211;I mean Google&#8211;was listing every search term he&#8217;d ever entered.</p>
-<p>A few searches down, there it was in all its glory: <em>arkansas national bank little rock</em></p>
+<br/><p>Mordecai was still emailing some chicks he&#8217;d met at Harvard. Women had always been his achilles, apparently.</p>
+<p>After a few clicks, it became evident that Leroy&#8217;s GMail archive would do little for me. His last sent message was over a week old. But Leroy&#8217;s not the most tech-savvy con in the world. Google has a little-known feature called &#8220;Enable Search History.&#8221; Sounds harmless enough. But it means Google (and anyone logged into your Google account) has access to your entire search history.</p>
+<p>Turns out, Mordecai had failed to disable this feature. After a few clicks, Leroy&#8217;s helpful Big Brother&#8211;I mean Google&#8211;was listing every search term he&#8217;d ever entered.</p>
+<p>The moneyshot was just a few inches down on the list:</p>
+<p><em>arkansas national bank little rock</em></p>
 
 ]]></content>
   </entry>
@@ -737,38 +731,38 @@
   <entry>
     <title type="html"><![CDATA[Chapter 17]]></title>
     <link href="http://shortsell-longcon.github.com/chapter-17/"/>
-    <updated>2012-04-29T22:50:00-07:00</updated>
+    <updated>2012-05-15T01:26:00-07:00</updated>
     <id>http://shortsell-longcon.github.com/chapter-17</id>
-    <content type="html"><![CDATA[<br/><p>Cray Wench and his federal boys were cold on the trail of one Mr. Leroy Brown. I was sure they knew about me, as in, someone like me, but they did not yet have my real name. Not yet. I bounced my trading sessions through so many web proxies and SSH tunnels, it would take months to get warrants from all of the providers. Let alone the obstacle of international service providers who wouldn&#8217;t readily comply with DoJ requests.</p>
-<p>Three different companies had passed along our keysniffers to the FBI&#8217;s Cybercrimes division. The companies passed along visitor, employee and contractor logs for the targeted offices. But this got Wench nowhere.</p>
-<p>He had a hunch, though. After making a few calls, Cray Wench discovered that all three NYC-based companies used the same janitorial services contractor. Wench made some calls and learned that at one point, one Mr. Franz Abignail had been the cleaning crew manager for both of these sites. By sheer luck, Mordecai had worked these jobs instead of me. He must&#8217;ve gotten sloppy, and planted the sniffers where they&#8217;d be more-easily discovered.</p>
-<p>The cleaning firm sent over a copy of Abignail&#8217;s fake ID, giving Wench one more vital piece of the puzzle.</p>
+    <content type="html"><![CDATA[<br/><p>Cray Wench and his federal boys were cold on the trail of one Mr. Leroy Brown. I was sure they knew about me, as in, someone like me, but they did not yet have my real name. Not yet. I bounced my trading sessions through so many web proxies and SSH tunnels, it would take months to get warrants from all of the providers. Let alone the obstacle of international service providers. Why should a hosting company in Sweden comply with the request of an American court? Or, think of it this way: should Exxon Mobil just hand over its server logs if it were demanded by an Iranian court of law? Of course not.</p>
+<p>Three different companies had passed along our keysniffers to the FBI&#8217;s Cybercrimes division. These companies, at the request of the FBI, also forwarded all employee, visitor and contractor logs. But Wench was stuck; none of the names yielded any clues.</p>
+<p>He had a hunch, though. After making a few calls, Cray Wench discovered that all three NYC-based companies used the same janitorial services contractor. Wench made some calls and learned that at one point, one Mr. Franz Abignail had been the cleaning crew manager on duty at all three locations. As it turned out, Abignail was one very poorly chosen alias by Mordecai. He happened to work these jobs, as I was busy managing the growth of our technical infrastructure. He must&#8217;ve gotten sloppy, planting the sniffers on low-value, high-risk targets.</p>
+<p>The cleaning firm sent over a copy of Abignail&#8217;s fake ID, giving Wench another vital piece of the ever-growing puzzle.</p>
 
 
-<br/><p>Mordecai&#8217;s headshot made the rounds across every FBI office in the nation. An APB of sorts. At the Boston FBI office, one enterprising young agent thought the elaborate insider trading scam sounded familiar. Like the work of an epic con artist. One with brains and tech-savvy to boot. Among Boston agents, there was lore of a suspected Harvard infiltrator, but because the University refused to press charges, the Feds never got involved. The enterprising agent took Abignail&#8217;s headshot down to Harvard. The Administration still refused to acknowledge the existence of Mordecai.</p>
-<p>After several meetings, the agent came away empty-handed. But the next day, he received a mysterious, anonymous FedEx package. It was the complete file Harvard had on Mordecai. His freshman-year photo indicated that Franz Abignail was in fact the same individual who had cheated his way into Harvard. As part of the agreement not to file charges, Mordecai had given up his real name to the administration: Lawrence Brown.</p>
-<p>The federalies&#8217; investigation now had legs. Wench went public the next morning; Leroy&#8217;s mug was splashed across every major paper in the nation.</p>
-<p>Down at my local Starbucks the next morning, I froze in horror as Leroy&#8217;s visage stared back at me. &#8220;Ex-Harvard Con Turned Insider Trading Millionaire&#8221; read the headline. I hustled home to check the news feeds.</p>
+<br/><p>Mordecai&#8217;s headshot made the rounds across every FBI office in the nation. An APB of sorts. At the Boston FBI office, one enterprising young agent thought the elaborate insider trading scam sounded familiar. The work of a real long con. One with brains to boot. Among Boston agents, there was lore of a suspected Harvard infiltrator, but because the University refused to press charges, the Feds never got involved. The enterprising agent took Abignail&#8217;s headshot down to Harvard. The Administration still refused to acknowledge the existence of Mordecai.</p>
+<p>After several meetings, the agency came away empty-handed. The next day, however, the young agent received a mysterious, FedEx package. It was the complete Harvard file on Mordecai. His freshman-year photo indicated that Franz Abignail was in fact the same individual who had cheated his way into Harvard. As part of the agreement, Mordecai gave up his real identity to the Harvard administration: Lawrence Brown.</p>
+<p>The federalies&#8217; investigation now had legs. Wench went public the next morning; Leroy&#8217;s mug was splashed across every major paper in the nation. Down at my local Starbucks the next morning, I froze in horror as Leroy&#8217;s visage stared back at me. &#8220;Ex-Harvard Con Turned Insider Trading Millionaire&#8221; read the headline. I hustled home to check Google News.</p>
 <p>&#8220;Former Harvard Student Caught in Elaborate Con&#8221; read the headline in USA Today. The Wall Street Journal ran with: &#8220;From Harvard to Janitor, to Insider Trading Tycoon.&#8221;</p>
 
-<br/><p>I had to get down to Little Rock. Somehow. In the previous six months, I&#8217;d obtained three valid driver&#8217;s licenses. New York, New Jersey and California. It was me in the picture, but the identities belonged to someone else. A real person who had the same height/build/etc. Also&#8211;one valid US passport, created in similar fashion, and another from New Zealand.</p>
-<p>It was time to hit the road. I packed my best three laptops, some externals and my surveillance gear. Oh, and $150k in cash that I&#8217;d set aside for this kind of occasion.</p>
-<p>In an ideal world, I&#8217;d have time to run Boot & Nuke on all of my hard disks before taking off. Most people think you can just reformat a drive and the data is gone. But if you&#8217;ve ever seen CSI, you know that the latent data is still there, lurking. Millions of incriminating 1s and 0s.</p>
-<p>I ejected all of my drives and collected the remaining USB jump sticks. Wrapped in several garbage bags, duct-taped to a brick, the Wallabout Bay would have to be the final resting place of my beloved terabytes. I made about seventeen turns along the way, just to make sure no one was following me. A few curious bystanders probably wondered what I was up to, not to mention the surveillance tapes, but I had to make the evidence disappear. A loud <em>plop</em> and my drives were safely resting at the bottom of the Bay.</p>
+<br/><p>I had to get down to Little Rock. Somehow. In the previous six months, I&#8217;d obtained three valid driver&#8217;s licenses. New York, New Jersey and California. It was me in the picture, but the identities belonged to someone else. A real person who had the same height/build/etc. Also&#8211;one valid US passport, created in similar fashion; another from New Zealand.</p>
+<p>It was time to hit the road. I packed my best three laptops, some externals and my surveillance gear. Oh, and $150k in cash that I&#8217;d set aside for this kind of occasion (a rainy day kind of fund).</p>
+<p>In an ideal world, I&#8217;d have time to run Boot &amp; Nuke on all of my hard disks before taking off. Most people think you can just reformat a hard drive and the data is gone. But if you&#8217;ve ever seen CSI, you know that the latent data is still there, lurking. Millions of incriminating 1s and 0s.</p>
+<p>I ejected all of my drives and collected the remaining USB jump sticks. Wrapped in several garbage bags, duct-taped to a brick, the Wallabout Bay would have to be the final resting place of my beloved terabytes. I made about seventeen turns along the way. I donned a Yankees cap, parked the car and walked out on the bridge. I could barely hear the <em>plop</em> as the bag descended to the bottom of the Bay.</p>
 
 
-<br/><p>A Yankees cap and dark sunglasses were the best I could come up with for a disguise. A quick trip to Avis and I was on the road, headed south in a mid-sized sedan. Traveling by air would be too risky. The drive to Little Rock took a full two days, as speeding was not a risk I could take.</p>
-<p>In Little Rock, I settled into a cheap motel. Got on Google and found a local PI by the name of Jimmy Radcliffe. He was your tried and true dick. Wore a shabby brown sports coat with patches on the elbows. Said he mostly handled divorce cases. Dick and Janes who thought their significant other was porking the office hottie. We chatted for about five minutes, when he said, &#8220;Yeah, most private investigators are ex-law enforcement. Fuckin&#8217; pigs. I come from &#8230; let&#8217;s just say, not that line of work.&#8221; <em>I think I&#8217;ve got my man.</em></p>
-<p>&#8220;Jimmy, I&#8217;m looking for an investigator with a certain &#8230; mind for discretion. In exchange, I&#8217;m willing to pay. And pay well.&#8221;</p>
-<p>Jimmy uncrossed his fingers, leaned over and picked up a cigar. As he lit the beast, which smelled Cuban, he said, &#8220;I think that can be arranged.&#8221;</p>
+<br/><p>Dark sunglasses and a Yankees cap were the best I could do for a disguise. A quick trip to Avis and I was on the road, headed south in a mid-sized sedan. Traveling by air would be too risky. The drive to Little Rock took a full two days, as speeding was not a luxury I could afford.</p>
+<p>In Little Rock, I settled into a cheap motel. Hopped on their shitty Wifi and found a local PI by the name of Jimmy Radcliffe. He was your tried and true dick. Wore a shabby brown sports coat with patches on the elbows. Said he mostly handled divorce cases. Dick and Janes who thought their significant other was porking the office hottie. We chatted for a few, then he said, &#8220;Yeah, most private investigators are ex-law enforcement. Fuckin&#8217; pigs. I come from &#8230; let&#8217;s just say, not that line of work.&#8221; I&#8217;d found my man.</p>
+<p>&#8220;Jimmy, I&#8217;m looking for an investigator with a certain &#8230; eye for discretion. In exchange, I&#8217;m willing to pay. And pay well.&#8221;</p>
+<p>Jimmy uncrossed his fingers, leaned over and picked up a cigar. The thing was massive (think Bob Marley). He said, &#8220;I &#8230; believe that can be arranged.&#8221;</p>
 <p>I took out ten g&#8217;s and laid it on him. He flipped through the bills.</p>
 <p>&#8220;Yeah, this&#8217;ll work,&#8221; he said.</p>
 <p>&#8220;Just a retainer,&#8221; I said. &#8220;You never told me your rate.&#8221;</p>
 <p>&#8220;Sixty dollars per hour.&#8221;</p>
 <p>&#8220;I&#8217;ll triple that. But the remaining two thirds will be held in escrow until six months after our business completes.&#8221;</p>
-<p>He mulled it over for a bit.</p>
-<p>&#8220;And will delivered to you in cash &#8230; assuming the confidentiality of our business remains intact.&#8221;</p>
-<p>A smile crept across his face. &#8220;Of course.&#8221;</p>
+<p>He mulled over my proposal, bellowing huge rings of smoke into the air.</p>
+<p>&#8220;Cash?&#8221; he asked.</p>
+<p>&#8220;Of course,&#8221; I said. &#8220;The remaining two thirds will be delivered to you via FedEx, assuming the confidentiality of our arrangement remains intact.&#8221;</p>
+<p>A smile crept across his mustached face. &#8220;Deal,&#8221; he said.</p>
 
 ]]></content>
   </entry>
@@ -776,53 +770,51 @@
   <entry>
     <title type="html"><![CDATA[Chapter 18]]></title>
     <link href="http://shortsell-longcon.github.com/chapter-18/"/>
-    <updated>2012-04-29T22:49:00-07:00</updated>
+    <updated>2012-05-15T01:25:00-07:00</updated>
     <id>http://shortsell-longcon.github.com/chapter-18</id>
-    <content type="html"><![CDATA[<br/><p>Armed with Mordecai&#8217;s list of aliases, Jimmy went to work on locating our man. He struck gold at the Hyatt Regency.</p>
-<p>&#8220;Hello,&#8221; said Jimmy, &#8220;can you patch me through to Kensington Danforth? It&#8217;s urgent. He&#8217;s staying in room 742.&#8221;</p>
-<p>&#8220;Sure, just a second.&#8221; A beat. &#8220;Sir, he&#8217;s staying in room 420. I&#8217;ll patch you through.&#8221;</p>
-<p>Bingo.</p>
+    <content type="html"><![CDATA[<br/><p>Armed with Mordecai&#8217;s list of aliases, Jimmy went to work on locating our man. The third hotel he tried was the downtown Hyatt Regency.</p>
+<p>&#8220;Hello,&#8221; said Jimmy, &#8220;can you patch me through to Kensington Danforth? It&#8217;s urgent. He&#8217;s staying in room 712.&#8221;</p>
+<p>&#8220;Sure, just a second.&#8221; A beat. &#8220;Sir, our records indicate he&#8217;s staying in room 420. Perhaps he&#8217;s changed rooms since you&#8217;ve last spoken with him. Here, I&#8217;ll patch you through.&#8221;</p>
+<p>Got him.</p>
 <p>Jimmy setup a surveillance operation at the Hyatt; meanwhile I posted up outside Arkansas National Bank.</p>
-<p>After a day of that, I grew restless. A trip to a local spy shop yielded the necessary tools to simply my life. Posing as an electrician, I installed two spy cams across the street from the bank. One above a coffee shop, the other beneath a neon &#8220;Diner&#8221; sign. With a lens the size of a button, the cameras were nearly invisible to the naked eye. They beamed a live feed to a nearby 3G modem. From there the data was sent directly to my server farm in Amsterdam.</p>
+<p>After a day of that, I grew restless. After a trip to the local spy shop, I was in business. Posing as an electrician, I installed two spy cams across the street from the bank. One above a coffee shop, the other beneath a neon &#8220;Diner&#8221; sign. With a lens the size of a button, the cameras were nearly invisible to the naked eye. They beamed a live feed to a nearby 3G modem. From there the data was sent directly to my server farm in Amsterdam.</p>
 <p>I sat back, turned on HBO (quite a perk for the cheap motel), watched, and waited.</p>
 
-<br/><p>That night, Leroy showed up at the hotel, wasted. He was with some chick who was sporting thigh-high, black leather boots.</p>
-<p>Jimmy said, &#8220;She&#8217;s quite the looker.&#8221;</p>
-<p>&#8220;Yeah, that&#8217;s one thing you should know. Leroy&#8217;s quite the fan of the ladies. Paid or not.&#8221;</p>
-
-
-<br/><p>The next day, I get a text from Jimmy: &#8220;Bishop has left the palace.&#8221;</p>
-<p>A few hours later I&#8217;m watching the live feed, when Jimmy pulls up in a Lincoln Town Car. He&#8217;s dressed to the nines in a pinstripe suit. Two women, who <em>appear</em> to be some kind of assistants, step out of the vehicle. &#8220;Bishop is in the pocket,&#8221; I text Jimmy.</p>
-<p>He&#8217;d lost the tail at the airport parking lot, so it was a good thing we had the feed.</p>
+<br/><p>That night, Leroy showed up at the hotel, wasted. &#8220;Yeah, he&#8217;s with some broad,&#8221; said Jimmy. &#8220;Quite the looker. She&#8217;s got those uh &#8230; I mean no disrespect, but whaddya call those&#8211;hooker boots? The black leather thigh-highs.&#8221;</p>
+<p>&#8220;Yeah, that sounds like Leroy alright. There&#8217;s one thing you should know,&#8221; I said to Jimmy, &#8220;Leroy&#8217;s quite the fan of the ladies, and he doesn&#8217;t seem to mind paying for it, if ya know what I mean.&#8221;</p>
+<p>&#8220;Loud and clear.&#8221;</p>
+<p>The next day, I get a text from Jimmy: &#8220;Bishop has left the palace.&#8221;</p>
+<p>A few hours later I&#8217;m watching the live feed when Jimmy pulls up in a Lincoln Town Car. He&#8217;s dressed to the nines in a pinstripe suit. Two women get out of the car with him. &#8220;Bishop is in the pocket,&#8221; I text Jimmy.</p>
+<p>He&#8217;d lost the tail at the airport parking lot, so it was a good thing we had the live feed.</p>
 <p>From what emerged of the case later, we know that Leroy had opened the bank account under the name &#8220;ATM Distributors Global, Inc.&#8221; There was a major ATM distributor by the same name, only, without the Global. These are the people who made a fortune by stocking every mini-part, strip joint and fast-food shop with an ATM.</p>
-<p>The women turned out to be high-end escorts, of course. Apparently the branch manager wanted to meet the man behind such a large cash infusion to the bank.</p>
-<p>&#8220;Our business is very cash-intensive, as you can imagine,&#8221; Leroy told the manager. &#8220;We&#8217;ve blanketed the Northeast with our machines, but see a huge opportunity for us to expand in the south. Please, don&#8217;t mention this to the press, but we are about to acquire one of our major competitors in the Southeast. Hence the infusion of capital in this market.&#8221;</p>
+<p>Leroy&#8217;s &#8220;assistants&#8221; turned out to be high-end escorts. Some $1000 dollar an hour agency that flies in girls from London, Tokyo and Paris. Apparently, the branch manager wanted to meet the man behind such a large cash infusion.</p>
+<p>&#8220;Our business is very cash-intensive, as you can imagine,&#8221; Leroy told the manager. &#8220;We&#8217;ve blanketed the Northeast with our machines, but see a huge opportunity for us to expand in the South. Please, don&#8217;t mention this to the press, but we are about to acquire one of our major competitors in the Southeast. Hence the infusion of capital in this market.&#8221;</p>
 <p>&#8220;Of course, Mr. Danforth. And we are glad to have your business. Thank you for meeting me in person. Is there anything else we can help you with today?&#8221;</p>
 <p>Mordecai looked to his assistants. &#8220;The withdrawals,&#8221; one said.</p>
 <p>&#8220;Ah yes,&#8221; said Mordecai, &#8220;we will begin making withdrawals next week. Does Tuesday work for you?&#8221;</p>
 <p>&#8220;Of course. How much are we talking about?&#8221;</p>
 <p>&#8220;Twenty-five million.&#8221;</p>
-<p>The branch manager gulped, hard.</p>
+<p>The branch manager suddenly found it difficult to swallow. But he did so anyway.</p>
 <p>&#8220;That&#8217;s quite the sum.&#8221;</p>
-<p>&#8220;Our southern operations are doing quite well of late. Businesses, wishing to avoid fees from the credit card companies, have been installing our new line of machines in record number.&#8221;</p>
-<p>&#8220;I see.&#8221;</p>
+<p>&#8220;Our southern operations are doing quite well of late. An ever-increasing number of small businesses are opting to accept cash only. Our machines go in the corner. Customers get their cash. Everyone is happy, just about.&#8221;</p>
+<p>&#8220;I see.&#8221; It seemed to make sense to the manager. And how could he explain turning down hundreds of millions in business to <em>his</em> boss?</p>
 <p>&#8220;We&#8217;ll need an armored car to transport the funds to our secure holding facility. Will there be a charge for that?&#8221;</p>
 <p>&#8220;No, Mr. Danforth. Let me check with my boss, but I believe we&#8217;d be happy to provide that service to a client such as yourself.&#8221;</p>
-<p>&#8220;Great. I believe that&#8217;s all. Shall we?&#8221;</p>
+<p>&#8220;Great. I believe that&#8217;s all.&#8221; Leroy turned to his assistants. &#8220;Shall we?&#8221;</p>
 <p>&#8220;It&#8217;s a pleasure doing business with you,&#8221; said the branch manager.</p>
 <p>&#8220;And you, too.&#8221;</p>
 
-<br/><p>While Mordecai was doing business at the bank, I broke into his hotel room. It was simple, really. Those new hotel room keys can be reverse-engineered quite easily. Using a magnetic card writer, I made myself a key to Mordecai&#8217;s room.</p>
+<br/><p>While Mordecai was doing business at the bank, I broke into his hotel room. It was simple, really. Using a magnetic card writer and cracked database of common key formats, I cloned Mordecai&#8217;s room key.</p>
 <p>The lamp fixture provided some camouflage for a hidden mic. Off in the corner of the room, I installed a spy cam. By the time I ducked out to my rental car, the feed was live.</p>
 
 
 <br/><p>The next morning, after a night of carnal activities with his &#8220;assistants,&#8221; Mordecai made a call. The mic audio was kind of fuzzy. All I heard was: &#8220;Yeah, this is Kensington &#8230; ATM Distributors &#8230; I&#8217;ll be &#8230; an hour &#8230; 5150 Oa&#8230; I&#8217;ll see you there.&#8221;</p>
-<p>Jimmy lost the tale on Mordecai&#8217;s red Corvette convertible. Mordecai was savvy enough to drive out to the airport and swap cars before meeting with associates.</p>
-<p>Google Maps&#8217; auto-complete feature narrowed down the address to two options: Oak Avenue and Oak Dale Drive. Jimmy took the Avenue while I scoped out the Drive.</p>
-<p>&#8220;It&#8217;s here,&#8221; texted Jimmy. I made my way over.</p>
-<p>Mordecai had really outdone himself. It was a large warehouse in an industrial district. &#8220;ATM Distributors Global, Inc.&#8221; read the freshly-painted sign.</p>
-<p>I had a sinking feeling in my stomach. Leroy had really stepped up his game. I briefly, briefly considered turning states evidence and narcing out Mordecai. Or phoning in an anonymous tip to the Feds.</p>
-<p>Just then three large trucks pulled up to the address. Jimmy and I watched from down the black. Mordecai directed traffic as the construction workers carried large steel sheets into the building.</p>
+<p>Jimmy lost the tale on Mordecai&#8217;s red Corvette convertible. Mordecai had this habit of driving out to the airport and swapping cars, before engaging in illicit activities. Personally, I think he got the idea from that scene in <em>Goodfellas</em>. The one where Ray Liotta&#8217;s character is driving around town everywhere while trying to make meatballs. He thinks he&#8217;s just paranoid, but it turns out he really is being followed by helicopters.</p>
+<p>All I had to go on was &#8220;5150 Oa&#8221;&#8211;not much, really. Google Maps to the rescue. The auto-complete feature narrowed down the address to one of two options: Oak Avenue and Oak Dale Drive. Jimmy took the Avenue while I scoped out the Drive.</p>
+<p>Thirty minutes later I got a text from Jimmy. &#8220;It&#8217;s 5150 Oak Avenue. 100%.&#8221; I made my way over.</p>
+<p>Mordecai had really outdone himself this time. It was a large warehouse in an industrial district. &#8220;ATM Distributors Global, Inc.&#8221; read the freshly-painted sign.</p>
+<p>I had a sinking feeling in my stomach. Leroy had really stepped up his game. For a moment, I considered turning states evidence and narcing out Mordecai. Or phoning in an anonymous tip to the Feds.</p>
+<p>Just then though, three large trucks pulled up to the address. Jimmy and I watched from down the black. Mordecai directed traffic as the construction workers carried large steel sheets into the building.</p>
 <p>The fucker. He was construction a vault.</p>
 
 ]]></content>
@@ -831,35 +823,33 @@
   <entry>
     <title type="html"><![CDATA[Chapter 19]]></title>
     <link href="http://shortsell-longcon.github.com/chapter-19/"/>
-    <updated>2012-04-29T22:48:00-07:00</updated>
+    <updated>2012-05-15T01:24:00-07:00</updated>
     <id>http://shortsell-longcon.github.com/chapter-19</id>
-    <content type="html"><![CDATA[<br/><p>Tuesday morning, Mordecai&#8217;s Lincoln pulled up to the bank. A senior bank VP had come out to supervise the operation. He met Leroy at the door, shaking his hand.</p>
-<p>After signing some documents inside the bank, Leroy and his female entourage got back in the Lincoln, following an armored car that pulled out from behind the bank.</p>
+    <content type="html"><![CDATA[<br/><p>Tuesday morning, Mordecai&#8217;s Lincoln pulled up to the bank. A senior bank VP had come out to supervise the operation. He shook Leroy&#8217;s hand and escorted him into the bank. There they signed some legal documents making the transfer official. Leroy and his female entourage got back in the Lincoln. They followed the armored car, a few lengths behind.</p>
 <p>Over the course of a week, Mordecai had transformed his warehouse into a veritable fortress, replete with rent-a-cops. The armored car pulled up around back. The guards unloaded three pallets worth of cash. Twenties and tens, mostly.</p>
-<p>Then we waited. Every rent-a-cop we&#8217;d spotted had left the building by five p.m., but Leroy didn&#8217;t leave the entire night. I pictured him in there, like Scrooge McDuck, taking a swim in his massive piles of cash.</p>
-<p>Jimmy kept a vigil while I headed back to the motel. We&#8217;d have to work in shifts to monitor Leroy and the cash 24/7.</p>
+<p>Then we waited. Every rent-a-cop we&#8217;d spotted had left the building by five p.m., but Leroy didn&#8217;t leave the entire night. I pictured him in there, like Scrooge McDuck, swan-diving into massive piles of cash.</p>
+<p>Jimmy kept a vigil while I headed back to the motel. We&#8217;d have to work in shifts to monitor Leroy and the cash, 24/7.</p>
 
-<br/><p>But the cash never moved. And neither did Mordecai. Every night he slept on that giant pile of coin. Sure, I knew that I could go in there, guns blazing, and take the $25 million.</p>
-<p>There was an electronic option, but I didn&#8217;t have access to Leroy&#8217;s laptop or banking codes. E-theft was out.</p>
-<p>But if I stole the $25 million and disappeared, it would severely limit my options. I could tie up Mordecai and leave him for the Feds, but then he&#8217;d turn states evidence against me. I could leave and grant Mordecai his freedom, but then he&#8217;d just walk away with $275 million. Half of which was mine. Well, technically, it belonged to hundreds of thousands of different investors, each of whom lost a few pennies to a few dollars, but still. It was <em>now</em> mine.</p>
+<br/><p>But the cash never moved. And neither did Mordecai. Every night, around ten, he&#8217;d get Chinese food delivered. But that&#8217;s all I ever saw of him.</p>
+<p>Sure, I knew &#8230; on some level, I could go in there, guns blazing, and take the $25 million. There was always the digital approach. But I didn&#8217;t have access to Leroy&#8217;s laptop or banking codes. So e-theft was out.</p>
+<p>If I robbed Leroy and grabbed the $25 million, what would happen to the rest? That&#8217;s what held me back the most. I could tie up Mordecai and leave him for the Feds, but then he&#8217;d turn states evidence against me. I could leave and grant Mordecai his freedom, but then he&#8217;d just walk away with $275 million. Half of which was mine. Well, technically, it belonged to hundreds of thousands of different investors, each of whom lost a few pennies to a few dollars, but still. It was <em>now</em> mine.</p>
 <p>So we waited.</p>
 
 <br/><p>Over the following two weeks, three more shipments of cash arrived, bringing the total to $100 million.</p>
-<p>Early Friday morning, we were greeted with a surprise. Through all of our surveillance and monitoring, somehow we missed it.</p>
-<p>An even-larger armored truck pulled up to the back of Leroy&#8217;s little warehouse turned bank vault. The side of the truck read &#8220;Rothstein Precious Metals.&#8221; The cargo was sealed in black tarps. The guards unloaded dolley after dolley of whatever it was Mordecai had purchased.</p>
-<p>I decided it was time to make a move. That night I&#8217;d go in for the dough. A real smash and grab job, if that&#8217;s what it took. Jimmy supplied me with a glock, but I didn&#8217;t bother loading it. I&#8217;d rather go to prison than actually hurt someone. If Mordecai pulled a piece, I&#8217;d say a little prayer and wait for the boys in blue.</p>
+<p>Early Friday morning, we were greeted with a surprise. Through all of our surveillance and monitoring, somehow we missed it. An even-larger armored truck pulled up to the back of Leroy&#8217;s little warehouse turned bank vault. The side of the truck read &#8220;Rothstein Precious Metals.&#8221; The cargo was sealed in black tarps. The guards unloaded crate after crate of whatever it was Mordecai had purchased.</p>
+<p>I decided it was time to make a move. That night I&#8217;d go in for the dough. A real smash and grab job, if that&#8217;s what it took. Jimmy supplied me with a glock, but I didn&#8217;t bother loading it. I&#8217;d rather go to prison, or end up dead, than actually have to shoot someone.</p>
 
-<br/><p>Sometime after ten, Mordecai finally left the warehouse. It was my golden opportunity. I picked the lock and entered the back entrance.</p>
-<p>It looked official alright. But a little poking around revealed the entire vault to be a sham. I went around to the side of the building, where for the first time I noticed a side door. It was a gaping hole in our surveillance. One could cut through the buildings next door and out to a side street.</p>
+<br/><p>Sometime after ten, Mordecai finally left the warehouse. At last: a golden opportunity. I picked the lock and entered the back entrance.</p>
+<p>It looked official alright. But a little poking around revealed the entire vault to be a sham. I went around to the side of the building, where for the first time I noticed a side door. It was a gaping hole in our surveillance. One could easily cut through the buildings next door, down a small path, and out to the street.</p>
 <p>I went back inside and noticed an area near the ceiling&#8211;about four inches&#8211;where the vault did not extend. I came back with a ladder. My hands were shaking as I made my way to the top.</p>
 <p>I poked my head over the steel divider and peered down.</p>
-<p><em>Fuck fuck fuck fuck fuck motherfucker.</em> The money was gone. The precious metals cargo, whatever it was, was gone. I got the hell out of there and called Jimmy.</p>
-<p>&#8220;Do you have him?&#8221;</p>
-<p>&#8220;No, just waiting at the hotel.&#8221;</p>
-<p>&#8220;Call me as soon as you see him. I&#8217;m going back to the motel and seeing if the GPS trackers I ordered have come in. We need his location twenty-four seven from now on.&#8221;</p>
+<p><em>Fuck fuck fuck fuck fuck motherfucker cocksucker motherfucker.</em> It was gone. All of it. The precious metals (whatever it was), the cash&#8211;all of it. I got the hell outta there and called Jimmy.</p>
+<p>&#8220;Do you have him?&#8221; I demanded.</p>
+<p>&#8220;No, I&#8217;m just waiting at the hotel.&#8221;</p>
+<p>&#8220;Call me as soon as you see him. I&#8217;m going back to the motel and seeing if the GPS trackers I ordered have come in. From now on, we need eyes and ears on target, twenty-four seven.&#8221;</p>
 <p>&#8220;Got it, boss. Oh and, I know it&#8217;s a bad time &#8230; but about my payment?&#8221;</p>
 <p>&#8220;I&#8217;ll bring thirty g&#8217;s cash to the hotel. Will that be enough for now?&#8221;</p>
-<p>&#8220;Sure thing boss.&#8221;</p>
+<p>&#8220;Sure thing, boss.&#8221;</p>
 
 ]]></content>
   </entry>
@@ -867,21 +857,19 @@
   <entry>
     <title type="html"><![CDATA[Chapter 20]]></title>
     <link href="http://shortsell-longcon.github.com/chapter-20/"/>
-    <updated>2012-04-29T22:47:00-07:00</updated>
+    <updated>2012-05-15T01:23:00-07:00</updated>
     <id>http://shortsell-longcon.github.com/chapter-20</id>
-    <content type="html"><![CDATA[<br/><p>At the airport parking lot, I managed to track down Mordecai&#8217;s Lincoln Town Car and SUV. I installed a GPS tracker in each.</p>
+    <content type="html"><![CDATA[<br/><p>At the airport parking lot, I managed to track down Mordecai&#8217;s Lincoln Town Car, and his SUV. I installed a GPS tracker in each.</p>
 <p>When Mordecai showed up at the hotel, Jimmy planted one on his Corvette.</p>
-<p>I watched on the feed as Mordecai freshened up and put on his Sunday best. It was five a.m. What was he up to at this ungodly hour?</p>
-<p>&#8220;Jimmy, I&#8217;ll take it from here,&#8221; I said as Leroy pulled out of the parking lot and headed toward the freeway. This game of cat and mouse was nearing an end; I didn&#8217;t want a dick getting any bright ideas as I closed in on the loot.</p>
-<p>I gave Mordecai a few miles berth as he headed east on I-40. The GPS indicated Leroy had stopped, a few miles outside Fayetteville.</p>
+<p>I watched on the feed as Mordecai freshened up and put on his Sunday best. It was five a.m.&#8211;what the fuck was he up to?</p>
+<p>&#8220;Jimmy, I&#8217;ll take it from here,&#8221; I said as Leroy pulled out of the parking lot and headed toward the freeway. Our little game of cat and mouse was nearing its climax. I didn&#8217;t want Jimmy around, getting any bright ideas.</p>
+<p>I gave Mordecai a few miles berth as he headed east on I-40. The GPS indicated that he&#8217;d stopped, a few miles outside Fayetteville.</p>
 
 <br/><p>It was a long country road. Two blocks away, I could see Mordecai&#8217;s red corvette in the driveway. An older lady stepped out onto the porch as he was leaving. She gave him a hug; an affectionate kiss on the cheek.</p>
-<p>Mordecai pulled out and headed down the street. A few blocks over he turned up a long dirt road. I had to keep my distance, but I watched as he drove to the end of the road and pulled up next to a large wooden shed. He unlocked the shed and stepped inside. <em>Just checking on your stash, my boy? What, are you going to spend the night here too?</em></p>
-<p>Apparently, no. Mordecai got back in his ride and took off. I had to pull away before he could turn the car around, but after a few minutes I doubled back to the shed.</p>
-
-<br/><p>The contents were secured with a large metal padlock. I wanted to take the money and run, but there was just one problem. My mid-sized Corolla wouldn&#8217;t do the trick.</p>
-<p>I rushed over to UHaul, rented a van and hit the road.</p>
-<p>A few smashes with the sledgehammer and the lock hinges were obliterated. I swung open the doors to reveal &#8230;</p>
+<p>Mordecai pulled out and headed down the street. A few blocks over he turned up a long dirt road. I had to keep my distance, but I watched as he drove to the end of the road and pulled up next to a large wooden shed. He unlocked the shed and stepped inside. <em>Just checking on your stash, my boy? What, you gonna spend the night here, too?</em></p>
+<p>Apparently, no. I kept driving on the main road, but I could see the corvette, and the shed. My GPS indicated that he&#8217;d taken off, and was headed back toward the freeway. I circled the car around to get a better look at the shed.</p>
+<p>The contents were secured with a large metal padlock. I wanted to take the money and run, but there was just one problem: I was driving a mid-sized Toyota Corolla. Not the most efficient hauler.</p>
+<p>I rushed over to UHaul, then the hardware store. I couldn&#8217;t help but haul ass down the freeway, back to the shed. A few smashes with the sledgehammer and the lock hinges were obliterated. I swung open the doors to reveal &#8230;</p>
 
 ]]></content>
   </entry>
